@@ -11,15 +11,15 @@
 
 <p align="center">
   <!-- Logos -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" style="vertical-align: middle; margin-top:-100px;" alt="C Logo"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="20" style="vertical-align: middle; margin-top:-100px;" alt="C Logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" style="vertical-align: middle; margin-top:-100px;" alt="Nix Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Nix Logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="40" style="vertical-align: middle; margin-top:-100px;" alt="Racket Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Racket Logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="vertical-align: middle; margin-top:-100px;" alt="PostgreSQL Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="PostgreSQL Logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" style="vertical-align: middle; margin-top:-100px;" alt="Neovim Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Neovim Logo"/>
 
   <!-- GIF -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhyNTRnODNoYWs5bG0xZGp4c3d1cjhsb2g3MmxvcGxvc2Q4ZnVjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.gif" height="120" alt="Computer Typing Gif"/>
