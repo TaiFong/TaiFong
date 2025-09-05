@@ -12,13 +12,13 @@
 <p align="center">
   <!-- Logos -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="20" style="vertical-align: middle; margin-top:-100px;" alt="C Logo"/>
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Nix Logo"/>
-  <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Racket Logo"/>
-  <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="PostgreSQL Logo"/>
-  <img width="12"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="20" style="vertical-align: middle; margin-top:-100px;" alt="Neovim Logo"/>
 
   <!-- GIF -->
