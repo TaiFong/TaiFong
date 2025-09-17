@@ -15,7 +15,7 @@
 
 <div align="center">
 
-| C | JavaScript | Racket | NixOS | PostgreSQL | Bash |
+|   C   | JavaScript | Racket | NixOS | PostgreSQL | Bash |
 | --- | --- | --- | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40" alt="C Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="40" alt="Racket Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="Nix Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo"/> | <img src="https://cdn.simpleicons.org/gnubash/eee/_" height="40" alt="Bash Logo"/> |
 
