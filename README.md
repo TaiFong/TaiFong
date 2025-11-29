@@ -10,7 +10,7 @@
 
 <div align="center">
 
-| C | Node.js | PostgreSQL | Git/GitHub | Neovim | NixOS | macOS | Markdown |
+| C/C++ | Node.js | PostgreSQL | Git/GitHub | Neovim | NixOS | macOS | Markdown |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" height="40"/> | <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40"/> | <img src="https://cdn.simpleicons.org/apple/D3D3D3" height="40" alt="macOS Logo"/> | <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23D3D3D3" height="40"/> |
 
