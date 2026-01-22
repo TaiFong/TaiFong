@@ -22,9 +22,11 @@ looking_to:
 <div></div>
 <div align="center">
 
-| C/C++ | JS/Node | Racket |  Nix  | MacOS | Neovim | Git | 
+| C/C++ | JavaScript | Solidity |  Nix  | MacOS | Markdown | Git | 
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="75" alt="JavaScript Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="50" width="75" alt="Racket Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo"/> | <img src="https://cdn.simpleicons.org/apple/D3D3D3" height="50" width="75" alt="MacOS Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="50" width="75" alt="NeoVim Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="75" alt="Git Logo"/>
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript Logo" /> | <img src="https://devicon-website.vercel.app/api/solidity/plain.svg?color=%23BFBFBF" height="50" width="75" alt="Solidity Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo"/> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23BFBFBF" height="50" width="75" color="" alt="Markdown Logo"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="75" alt="Git Logo"/>
+
+          
 </div>
 
 ---
