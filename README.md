@@ -7,12 +7,13 @@ located_in: Remote
 from: New York, USA
 
 skills_and_tools:
-  programming_languages: ["C", "C++", "Racket", "JavaScript"]
-  tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Llama.cpp"]
+  programming_languages: ["C", "Rust", "TS/JS"]
+  tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Llama.cpp", Markdown]
   concepts: ["Low-level programming", "Functional programming", "CLI tooling"]
 
 current_projects:
-  - "C-based, Nix-built mini LLM-style CLI project (tokenization, text stats, modular pipelines)"
+  - "IT Service Mgmt Chatbot (Microsoft Teams)"
+  - "HTTP Cron / Background Jobs API"
 
 looking_to:
   - "Deepen CS fundamentals"
@@ -22,11 +23,9 @@ looking_to:
 <div></div>
 <div align="center">
 
-| C/C++ | JavaScript | Solidity |  Nix  | MacOS | Markdown | Git | 
+| C/C++ | Rust | JS/TS |  Nix  | MacOS | Markdown | Git | 
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript Logo" /> | <img src="https://devicon-website.vercel.app/api/solidity/plain.svg?color=%23BFBFBF" height="50" width="75" alt="Solidity Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo"/> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23BFBFBF" height="50" width="75" color="" alt="Markdown Logo"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="75" alt="Git Logo"/>
-
-          
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" width="75" alt="Rust Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="JavaScript Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo" /> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23BFBFBF" height="50" width="75" color="" alt="Markdown Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="75" alt="Git Logo" />
 </div>
 
 ---
