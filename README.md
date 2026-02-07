@@ -23,9 +23,9 @@ looking_to:
 <div></div>
 <div align="center">
 
-| C/C++ | Rust | JS/TS |  Nix  | MacOS | Markdown | Git | 
+| C/C++ | Rust | JS/TS |  Nix  | MacOS | Postgres | Git | 
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" width="75" alt="Rust Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="JavaScript Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo" /> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23BFBFBF" height="50" width="75" color="" alt="Markdown Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="75" alt="Git Logo" />
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="75" alt="C++ Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" width="75" alt="Rust Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" alt="JavaScript Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo" /> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="75" color="" alt="PostgreSQL Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="75" alt="Git Logo" />
 </div>
 
 ---
