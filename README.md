@@ -7,7 +7,7 @@ located_in: Remote
 from: New York, USA
 
 focus:
-  - "Systems programming (Rust-first)"
+  - "Systems/Low Level programming (Rust-first)"
   - "Security engineering (actively learning)"
   - "Backend & infrastructure tooling"
   - "Finance & financial systems"
@@ -15,10 +15,6 @@ focus:
 skills_and_tools:
   programming_languages: ["Rust", "C"]
   tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Postgres", "Llama.cpp", "Markdown"]
-  concepts:
-    - "Low-level programming"
-    - "CLI tooling"
-    - "Reproducible environments"
 
 projects:
   work:
@@ -29,7 +25,6 @@ projects:
 learning_now:
   - "Going deep into Rust as a modern systems language"
   - "Security engineering foundations"
-  - "Financial systems architecture"
 
 ```
 
