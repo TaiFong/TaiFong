@@ -16,31 +16,21 @@ skills_and_tools:
   programming_languages: ["Rust", "C"]
   tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Postgres", "Llama.cpp", "Markdown"]
   concepts:
-    - "Memory management"
     - "Low-level programming"
-    - "Functional programming principles"
     - "CLI tooling"
     - "Reproducible environments"
 
 projects:
-
   work:
     - "IT Service Management Chatbot (Microsoft Teams)"
-
   personal:
     - "HTTP Cron / Background Jobs API"
 
 learning_now:
   - "Going deep into Rust as a modern systems language"
-  - "Rust internals & ownership model mastery"
-  - "Systems design fundamentals"
   - "Security engineering foundations"
   - "Financial systems architecture"
 
-looking_to:
-  - "Deepen CS fundamentals"
-  - "Write safer, clearer, more reproducible systems"
-  - "Collaborate on systems, security, or tooling-focused projects"
 ```
 
 <div></div>
