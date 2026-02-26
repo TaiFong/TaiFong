@@ -13,7 +13,7 @@ focus:
   - "Finance & financial systems"
 
 skills_and_tools:
-  programming_languages: ["Rust", "C"]
+  programming_languages: ["Rust", "JavaScript", "C"]
   tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Postgres", "Llama.cpp", "Markdown"]
 
 projects:
@@ -31,9 +31,9 @@ learning_now:
 <div></div>
 <div align="center">
 
-| C/C++ | Rust | Nix | MacOS | Postgres | Git |
+| Rust | JS/TS | Nix | MacOS | PgSQL | Git |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://devicon-website.vercel.app/api/c/original.svg" height="50" width="75" alt="C Logo"/> | <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23C45508" height="50" width="75" alt="Rust Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo" /> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="75" alt="PostgreSQL Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="75" alt="Git Logo" /> |
+| <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23C45508" height="60" width="75" alt="Rust Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" width="75" alt="JavaScript Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="50" width="75" alt="Nix Logo" /> | <img src="https://devicon-website.vercel.app/api/apple/original.svg?color=%23BFBFBF" height="50" width="75" alt="Apple Logo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="50" width="75" alt="PostgreSQL Logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="75" alt="Git Logo" /> |
 
 </div>
 
