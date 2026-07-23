@@ -1,31 +1,28 @@
 <div></div>
 
-```yaml
-name: Tai Fong
-job: Junior Software Engineer
-located_in: Remote
-from: New York, USA
+```toml
+name = "Tai Fong"
+job = "DevOps Engineer | Systems Programming"
+located_in = "Remote"
+from = "New York, USA"
 
-focus:
-  - "Systems/Low Level programming (Rust-first)"
-  - "Security engineering (actively learning)"
-  - "Backend & infrastructure tooling"
-  - "Finance & financial systems"
+focus = [
+  "Linux Internals",
+  "Security Engineering",
+  "Systems Programming (Rust & C)"
+]
 
-skills_and_tools:
-  programming_languages: ["Rust", "JavaScript", "C"]
-  tools_and_environments: ["Nix", "Git", "Neovim", "macOS", "Postgres", "Llama.cpp", "Markdown"]
+[skills_and_tools]
+operating_systems = ["Linux", "MacOS", "NixOS"]
+programming_languages = ["Rust", "C", "Bash"]
+dev_tools = ["NeoVim", "TMUX", "Neovim", "Ghostty", "Git", "Markdown"]
 
-projects:
-  work:
-    - "IT Service Management Chatbot (Microsoft Teams)"
-  personal:
-    - "HTTP Cron / Background Jobs API"
-
-learning_now:
-  - "Going deep into Rust as a modern systems language"
-  - "Security engineering foundations"
-
+[projects.personal]
+items = [
+  "CLI Tools",
+  "[Linux on Chromebook Using ShimBoot](https://www.youtube.com/shorts/XM9Zi6CyrrA)",
+  "^[Chrome OS RMA Shim Bootloader](https://github.com/ading2210/shimboot)"
+]
 ```
 
 <div></div>
