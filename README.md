@@ -15,7 +15,7 @@ focus = [
 [skills_and_tools]
 operating_systems = ["Linux", "MacOS", "NixOS"]
 programming_languages = ["Rust", "C", "Bash"]
-dev_tools = ["NeoVim", "TMUX", "Neovim", "Ghostty", "Git", "Markdown"]
+dev_tools = ["NeoVim", "TMUX", "Ghostty", "Git", "Markdown"]
 
 [projects.personal]
 items = [
